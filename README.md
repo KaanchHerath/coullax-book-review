@@ -43,13 +43,7 @@ This is a simple web application designed to manage book reviews. Users can add,
    npm install
    ```
 
-4. **Create a `.env` file** in the `backend` directory and add the following environment variables (replace values as needed):
-   ```bash
-   PORT=5001
-   MONGO_URI=your-mongodb-connection-string
-   ```
-
-5. **Run the Backend:**
+4. **Run the Backend:**
    ```bash
    npm run server
    ```

@@ -83,12 +83,6 @@ This is a simple web application designed to manage book reviews. Users can add,
 - The backend should be running and accessible at `http://localhost:5001`. The frontend makes API calls to this server for CRUD operations on reviews.
 
 
-## Contributing
-
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request with your changes. Please ensure that your code follows the project’s coding style and includes tests where applicable.
-
----
-
 ---
 
 ### Notes:

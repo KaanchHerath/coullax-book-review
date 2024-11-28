@@ -29,7 +29,7 @@ This is a simple web application designed to manage book reviews. Users can add,
 #### Steps:
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/your-repo/book-review-app.git](https://github.com/KaanchHerath/coullax-book-review.git)
+   git clone https://github.com/KaanchHerath/coullax-book-review.git
    cd book-review-app
    ```
 

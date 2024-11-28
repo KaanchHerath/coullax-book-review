@@ -13,7 +13,7 @@ app.use(cors());
 
 // Database Connection
 mongoose
-  .connect("mongodb://localhost:27017/bookreviews")
+  .connect("mongodb+srv://book_review_admin:hLc47I3f2gKhWAcF@bookreviews.sdzpx.mongodb.net/BookReviews")
   .then(() => console.log("Connected to MongoDB"))
   .catch((error) => console.error("Database connection error:", error));
 
